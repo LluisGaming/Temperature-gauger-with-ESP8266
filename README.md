@@ -14,4 +14,4 @@ Para este proyecto estamos usando Arduino como lenguaje de programación.
 
 #### Credits:
 
-- Con [este repositorio](https://github.com/luisllamasbinaburo/ESP8266-Examples) nos hemos podido conectar a la red. 
+- Con [este repositorio](https://github.com/luisllamasbinaburo/ESP8266-Examples) nos hemos podido conectar a la red alternativa que hemos creado gracias a una malla de routers antiguos.
