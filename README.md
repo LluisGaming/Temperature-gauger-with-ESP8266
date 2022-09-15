@@ -7,7 +7,7 @@ Para este proyecto estamos usando Arduino como lenguaje de programación.
 
 - Lo primero que hemos hecho es instalar el programa [Arduino](https://www.arduino.cc/en/software) en nuestro Windows.
 - Después hemos instalado las liberías [ESP](http://arduino.esp8266.com/stable/package_esp8266com_index.json) en Arduino.
-
+- Buscamos como conectarlo a la red [gencat_ENS_edu](http://llta.formacio.ctti.extranet.gencat.cat/cise//), pero no es posible, ya que usa certificados exlusivos de Windows.
 
 
 
