@@ -9,7 +9,7 @@ Para este proyecto estamos usando Arduino como lenguaje de programación.
 - Después hemos instalado las liberías [ESP]() en Arduino.
 - Buscamos como conectarlo a la red [gencat_ENS_EDU](http://llta.formacio.ctti.extranet.gencat.cat/cise//), pero no es posible, ya que usa certificados exlusivos de Windows.
 - Hemos usado la malla Wi-Fi creada con diversos routers conectados a las cajas eléctricas de eduroam.
--Después hemos usado una Raspberry Pi 1.04 para crear el sistema.
+- Después hemos usado una Raspberry Pi 1.04 para crear el sistema.
 
 
 
