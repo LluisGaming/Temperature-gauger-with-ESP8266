@@ -1,4 +1,4 @@
-# Red de medidores de temperatura con ESP8266
+# Red de medidores de temperatura con ESP8266 y Arduino Nano
 
 En este proyecto desarrollado por __ se busca hacer un sistema de medición y estadísticas de temperatura en un centro escolar con aparatos ESP8266.
 Para este proyecto estamos usando Arduino como lenguaje de programación.
